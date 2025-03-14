@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "Vex-Library-fork",
+		"slot": 1,
+		"description": "Empty V5 C++ Project",
+		"platform": "V5",
+		"creationDate": "Tue, 08 Aug 2023 13:14:06 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.4.2",
+		"json": 1
+	}
+}
